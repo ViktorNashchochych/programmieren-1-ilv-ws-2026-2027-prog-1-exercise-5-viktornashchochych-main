@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "programmieren-1-ilv-ws-2026-2027"
+assignment: "prog-1-exercise-5"
+owner:
+  username: "ViktorNashchochych"
+  id: 326044099
+  accepted_at: "2026-11-20T23:13:24Z"
+source:
+  owner: "FH-Campus-Wien"
+  owner_id: 69901133
+  repo: "Prog_1_Exercise5v12026"
+  branch: "main"
